@@ -83,7 +83,7 @@ weather_dashboard/
 1. Clonez le dépôt :
 ```bash
 delsDingit clone https://github.com/delsDin/Delsat.git
-cd weather_dashboard
+cd DelsAt
 ```
 
 2. Créez un environnement virtuel (recommandé) :
